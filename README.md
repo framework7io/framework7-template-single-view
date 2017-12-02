@@ -38,5 +38,5 @@ Just put the contents of `www` folder in your cordova's project root `www` folde
 git clone https://github.com/framework7io/framework7-template-singleview my-app &&
 cd my-app &&
 npm install &&
-npm run
+npm run serve
 ```
