@@ -1,6 +1,6 @@
 # Framework7 Single View Starter App Template
 
-A simple single view Framework7 starter template.
+A simple single view Framework7 starter app template.
 
 ## Usage
 
