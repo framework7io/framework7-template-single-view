@@ -1,10 +1,10 @@
 {
-  "name": "framework7-template-singleview",
+  "name": "framework7-template-single-view",
   "version": "1.0.0",
   "description": "Framework7 single view app template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/framework7io/framework7-template-singleview.git"
+    "url": "git+https://github.com/framework7io/framework7-template-single-view.git"
   },
   "scripts": {
     "serve": "http-server ./www/ -o -c 1 -a localhost",
@@ -24,9 +24,9 @@
   "author": "Vladimir Kharlampidi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/framework7io/framework7-template-singleview/issues"
+    "url": "https://github.com/framework7io/framework7-template-single-view/issues"
   },
-  "homepage": "https://github.com/framework7io/framework7-template-singleview#readme",
+  "homepage": "https://github.com/framework7io/framework7-template-single-view#readme",
   "devDependencies": {
     "cpy-cli": "^1.0.1",
     "framework7": "^2.0.0",
